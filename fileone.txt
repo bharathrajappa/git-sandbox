@@ -1,3 +1,0 @@
-This is the first file created as part of git training.
-
-Modifying this file. 
