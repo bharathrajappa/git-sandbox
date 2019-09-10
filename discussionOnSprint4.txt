@@ -1,4 +1,8 @@
+<<<<<<< HEAD
  qirdsdf sdscvsdd sdfsdfdsdfsdfsdsdi jiwsjlrm jijsd js
+=======
+jisd ijd 9484_4n=+=44irdsdf sdscvsdd sdfsdfdsdfsdfsdsdi jiwsjlrm jijsd js
+>>>>>>> 10814aa00e2b91714d11397348a276829dc405b0
 sdsijisejj 
 
 ---Modifying this file from git-sandbox
