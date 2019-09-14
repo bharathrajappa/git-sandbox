@@ -3,6 +3,7 @@
 jisd ijd 9484_4n=+=44irdsdf sdscvsdd sdfsdfdsdfsdfsdsdi jiwsjlrm jijsd js
 
 sdsijisejj 
+<<<<<<< Updated upstream
 
 ---Modifying this file from git-sandbox
 
@@ -13,3 +14,11 @@ Adding some changes & this change is from master branch. and these are the chang
 
 
 ------****** done merges ************
+
+shudfshduf irijs
+sdijfsidfjs 
+sdfjsidjsaidfjisad
+sdifjsdifjsidjfisd
+sdfjisdjfisdjifsjd
+
+changes are completed aadter idjsdfmi
